@@ -4,6 +4,7 @@
 In the project directory, you can run:
 
 ### `npm start`
+### `npm run test`
 
 ### Other dependencies:
 #### UI: `@mui/material`
